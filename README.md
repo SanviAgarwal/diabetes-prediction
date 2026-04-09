@@ -1,0 +1,61 @@
+# Diabetes Prediction using Machine Learning
+
+## 📌 Project Overview
+This project predicts whether a person is diabetic or not using machine learning techniques. The model is trained on the Pima Indians Diabetes dataset and uses Logistic Regression for classification.
+
+## 📊 Features
+- Data cleaning (handling invalid zero values)
+- Exploratory Data Analysis (EDA)
+- Data visualization (heatmaps, distributions)
+- Feature scaling using StandardScaler
+- Model training using Logistic Regression
+- Model evaluation (accuracy, classification report)
+- Sample prediction system
+
+## 🛠️ Tech Stack
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- Scikit-learn
+
+## 📈 Model Performance
+- Accuracy: ~70–80% (may vary slightly depending on split)
+
+## 📁 Project Structure
+Diabetes-Prediction/
+│── data/  
+│── notebook/  
+│── src/  
+│── requirements.txt  
+│── .gitignore  
+│── README.md  
+
+## 🚀 How to Run
+
+1. Clone the repository:
+
+```git clone https://github.com/SanviAgarwal/diabetes-prediction```
+
+2. Navigate to the project folder:
+
+```cd diabetes-prediction```
+
+3. Install dependencies:
+
+```pip install -r requirements.txt```
+
+4. Run the notebook or training script.
+
+## 🧪 Sample Prediction
+The model takes input features like glucose level, BMI, age, etc., and predicts whether a person is diabetic or not.
+
+## 🎯 Future Improvements
+- Try advanced models like Random Forest, SVM, XGBoost
+- Hyperparameter tuning
+- Build a web app using Streamlit
+- Deploy the model online
+
+## 👩‍💻 Author
+Sanvi Agarwal
