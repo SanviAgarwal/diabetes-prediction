@@ -39,22 +39,6 @@ Diabetes-Prediction/
 └── README.md                   # Project documentation
 ``` 
 
-## 🚀 How to Run
-
-1. Clone the repository:
-
-```git clone https://github.com/SanviAgarwal/diabetes-prediction```
-
-2. Navigate to the project folder:
-
-```cd diabetes-prediction```
-
-3. Install dependencies:
-
-```pip install -r requirements.txt```
-
-4. Run the notebook or training script.
-
 ## 🧪 Sample Prediction
 The model takes input features like glucose level, BMI, age, etc., and predicts whether a person is diabetic or not.
 
@@ -62,7 +46,6 @@ The model takes input features like glucose level, BMI, age, etc., and predicts 
 - Try advanced models like Random Forest, SVM, XGBoost
 - Hyperparameter tuning
 - Build a web app using Streamlit
-- Deploy the model online
 
 ## 👩‍💻 Author
 Shanvi Agarwal
