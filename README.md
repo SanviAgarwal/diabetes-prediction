@@ -65,4 +65,4 @@ The model takes input features like glucose level, BMI, age, etc., and predicts 
 - Deploy the model online
 
 ## 👩‍💻 Author
-Sanvi Agarwal
+Shanvi Agarwal
