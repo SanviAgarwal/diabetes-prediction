@@ -24,13 +24,20 @@ This project predicts whether a person is diabetic or not using machine learning
 - Accuracy: ~70–80% (may vary slightly depending on split)
 
 ## 📁 Project Structure
+
+```
 Diabetes-Prediction/
-│── data/  
-│── notebook/  
-│── src/  
-│── requirements.txt  
-│── .gitignore  
-│── README.md  
+├── data/
+│   └── diabetes.csv            # Raw dataset
+├── notebook/
+│   └── eda.ipynb               # EDA + model building notebook
+├── src/
+│   └── train.py                # Model training script (optional)
+├── venv/                       # Virtual environment (ignored in Git)
+├── requirements.txt            # Python dependencies
+├── .gitignore                  # Ignored files
+└── README.md                   # Project documentation
+``` 
 
 ## 🚀 How to Run
 
